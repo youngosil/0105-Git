@@ -1,2 +1,2 @@
 def print2() :
-    print('빅...')
+    print('빅타500')
